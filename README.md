@@ -4,5 +4,5 @@ Analyzes the file structure and creates a softlink based multidimensional link t
 
 Start:
 ```bash
-node index.js "/home/user/Dox" "{documents:'/home/me/Documents',images:'/home/me/Pictures',videos: '/home/me/Videos'}"
+node index.js "/home/user/Dox" "{Documents:'/home/me/Documents',Images:'/home/me/Pictures',Videos: '/home/me/Videos'}"
 ```
