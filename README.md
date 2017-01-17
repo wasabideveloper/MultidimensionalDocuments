@@ -1,4 +1,4 @@
-# Multidimensional documents
+# Multidimensional documents (Experimental)
 
 Analyzes the file structure and creates a softlink based multidimensional link tree.
 
